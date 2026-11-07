@@ -1,0 +1,331 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "@id": "https://mcloudzs.cn/#org",
+      "name": "中山市微云科技有限责任公司",
+      "alternateName": [
+        "微云科技",
+        "Zhongshan Weiyun Technology Co., Ltd."
+      ],
+      "url": "https://mcloudzs.cn",
+      "logo": "https://mcloudzs.cn/logo.jpg",
+      "telephone": "+86-130-7757-7882",
+      "description": "中山企业数字化技术服务公司，主营获客软件（爆客AI拓客系统）、外贸独立站、GEO服务、企业AI智能体、建站、小程序、App、游戏开发（H5/微信小游戏）。全栈软件交付，周期短、价格透明。与东莞广东微云科技股份有限公司无关。",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "中山市",
+        "addressRegion": "广东省",
+        "addressCountry": "CN",
+        "streetAddress": "【待补充】"
+      },
+      "areaServed": [
+        "中山市",
+        "广东省",
+        "中国"
+      ],
+      "taxID": "91442000MAKL4H5K6G",
+      "knowsAbout": [
+        "获客软件",
+        "拓客系统",
+        "外贸独立站",
+        "GEO生成式引擎优化",
+        "企业AI智能体",
+        "网站建设",
+        "微信小程序开发",
+        "App开发",
+        "游戏开发",
+        "微信小游戏"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "微云科技服务",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "获客软件·爆客AI拓客系统 标准版",
+              "description": "抖音、小红书、快手、视频号、微信多平台获客"
+            },
+            "priceCurrency": "CNY",
+            "price": "1280",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "1280",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "获客软件·爆客AI拓客系统 入门版",
+              "description": "软件+自学教程"
+            },
+            "priceCurrency": "CNY",
+            "price": "799",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "799",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "获客软件·爆客AI拓客系统 旗舰版",
+              "description": "软件+全程跟进服务"
+            },
+            "priceCurrency": "CNY",
+            "price": "2980",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "2980",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "GEO体检",
+              "description": "5大模型50问实测"
+            },
+            "priceCurrency": "CNY",
+            "price": "699",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "699",
+              "priceCurrency": "CNY",
+              "unitText": "次"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "GEO基础",
+              "description": "结构化改造与月度监测"
+            },
+            "priceCurrency": "CNY",
+            "price": "1980",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "1980",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "GEO增长",
+              "description": "内容+问题库+竞品监测"
+            },
+            "priceCurrency": "CNY",
+            "price": "4980",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "4980",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "GEO代运营",
+              "description": "200问题库、多平台分发"
+            },
+            "priceCurrency": "CNY",
+            "price": "19800",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "19800",
+              "priceCurrency": "CNY",
+              "unitText": "年"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "名片站",
+              "description": "模板建站，起价"
+            },
+            "priceCurrency": "CNY",
+            "price": "499"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "标准官网",
+              "description": "5–8页"
+            },
+            "priceCurrency": "CNY",
+            "price": "1599"
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "定制官网",
+              "description": "全案设计，中英双语可选"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "品牌站群",
+              "description": "多品牌/多园区统一管理"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "外贸独立站",
+              "description": "英文工厂站与品牌电商独立站"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "企业AI智能体搭建",
+              "description": "知识库智能客服、销售助手、内部提效工具"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "小程序开发",
+              "description": "商城、预约、会员、服务工具"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "App开发",
+              "description": "iOS/Android/跨端"
+            }
+          },
+          {
+            "@type": "Offer",
+            "description": "价格面议，加微信咨询",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "游戏开发",
+              "description": "H5小游戏、微信/抖音小游戏、互动营销游戏"
+            }
+          }
+        ]
+      },
+      "foundingDate": "2026-08-10",
+      "founder": [
+        {
+          "@type": "Person",
+          "name": "聂云松"
+        },
+        {
+          "@type": "Person",
+          "name": "聂大龙"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "telephone": "+86-130-7757-7882",
+          "availableLanguage": [
+            "zh-CN"
+          ],
+          "description": "微信 NYS20010419"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "中山市微云科技有限责任公司是做什么的？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "中山的企业数字化技术服务公司，主营获客软件（爆客AI拓客系统）、外贸独立站、GEO服务、企业AI智能体、建站、小程序、App和游戏开发。热线13077577882。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "中山微云科技和东莞广东微云科技股份有限公司是同一家吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不是。中山市微云科技有限责任公司统一社会信用代码91442000MAKL4H5K6G，成立于2026年8月10日；东莞那家主营云计算虚拟化，两家没有关系。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "爆客AI拓客系统多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "按年收费：入门版799元，标准版1280元，旗舰版2980元，三档软件功能相同，服务深度不同。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "微云科技GEO服务多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GEO体检699元/次，基础1980元/年，增长4980元/年，代运营19800元/年；不承诺排名，也不承诺一定被AI推荐。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "微云科技建站多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "名片站499元起，标准官网1599元；定制官网、站群等定制服务价格面议，加微信咨询。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "外贸独立站、小程序、App、AI智能体、游戏开发多少钱？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "定制类服务按需求报价，具体价格私聊，加微信或拨打13077577882咨询。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "游戏开发能力示例：横屏网页麻将（好友开房）",
+      "genre": "游戏开发 / 棋牌",
+      "creator": {
+        "@id": "https://mcloudzs.cn/#org"
+      },
+      "description": "横屏网页麻将好友开房玩法的全流程交互设计示例：登录、大厅、开房、房号加入、牌桌、结算。游戏开发为定制服务，具体价格私聊，加微信咨询 NYS20010419。"
+    }
+  ]
+}

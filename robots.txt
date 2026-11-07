@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+# AI 抓取：明确允许
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: YisouSpider
+Allow: /
+Sitemap: https://mcloudzs.cn/sitemap.xml
